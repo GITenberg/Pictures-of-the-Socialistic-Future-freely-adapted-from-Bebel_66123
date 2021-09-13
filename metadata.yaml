@@ -1,5 +1,5 @@
 _repo: Pictures-of-the-Socialistic-Future-freely-adapted-from-Bebel_66123
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Sozialdemokratische Zukunftsbilder. English
 contributor:
   author_of_introduction:
@@ -13,6 +13,9 @@ contributor:
     agent_name: Wright, Henry
     gutenberg_agent_id: '53644'
     url: http://www.gutenberg.org/2009/agents/53644
+covers:
+- cover_type: archival
+  image_path: 66123-h/images/cover.jpg
 creator:
   author:
     agent_name: Richter, Eugen
@@ -25,6 +28,8 @@ creator:
     - https://de.wikipedia.org/wiki/Eugen_Richter
     - https://en.wikipedia.org/wiki/Eugen_Richter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66123#Pictures-of-the-Socialistic-Future-freely-adapted-from-Bebel
 gutenberg_issued: '2021-08-23'
 identifiers:
   gutenberg: '66123'
