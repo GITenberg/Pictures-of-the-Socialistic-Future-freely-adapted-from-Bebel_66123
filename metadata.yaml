@@ -1,0 +1,45 @@
+_repo: Pictures-of-the-Socialistic-Future-freely-adapted-from-Bebel_66123
+_version: 0.0.1
+alternative_title: Sozialdemokratische Zukunftsbilder. English
+contributor:
+  author_of_introduction:
+    agent_name: Mackay, Thomas
+    alias: Mackay, T. (Thomas)
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '40428'
+    url: http://www.gutenberg.org/2009/agents/40428
+  translator:
+    agent_name: Wright, Henry
+    gutenberg_agent_id: '53644'
+    url: http://www.gutenberg.org/2009/agents/53644
+creator:
+  author:
+    agent_name: Richter, Eugen
+    alias: Richter, Eugene
+    birthdate: 1838
+    deathdate: 1906
+    gutenberg_agent_id: '53643'
+    url: http://www.gutenberg.org/2009/agents/53643
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Eugen_Richter
+    - https://en.wikipedia.org/wiki/Eugen_Richter
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Satire'
+- !lcc 'PT'
+- !lcsh 'Dystopias -- Fiction'
+- !lcsh 'Germany -- Fiction'
+- GITenberg
+title: 'Pictures of the Socialistic Future
+
+  (freely adapted from Bebel)'
+url: http://www.gutenberg.org/ebooks/66123
